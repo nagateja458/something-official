@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 rupa sdfhajsfuj -dev then gooo
+=======
+rupa sdfhajsfuj -dev fgfg
+>>>>>>> main
